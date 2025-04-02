@@ -1,6 +1,7 @@
 package com.xpectranet.x0.service;
 
 import com.xpectranet.x0.model.Insight;
+import java.util.List;
 
 /**
  * InsightService defines the interface for insight minting,
@@ -10,4 +11,5 @@ public interface InsightService {
     String mintInsight(Insight insight);
     String remixInsight(Insight insight);
     String validateInsight(Insight insight);
+    String mintBatch(List<Insight> insights);
 }

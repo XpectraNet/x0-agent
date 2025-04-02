@@ -8,6 +8,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.http.ResponseEntity;
 
+import java.util.List;
+
 /**
  * REST controller to handle insight-related requests.
  */
@@ -27,6 +29,12 @@ public class InsightController {
     @Operation(summary = "Mint a new insight", description = "Create a new insight and anchor it into the memory graph")
     public ResponseEntity<String> mintInsight(@RequestBody Insight insight) {
         return ResponseEntity.ok(insightService.mintInsight(insight));
+    }
+
+    @PostMapping("/mint/batch")
+    @Operation(summary = "Mint a batch of insights", description = "Create multiple insights and store them as individual artefacts")
+    public ResponseEntity<String> mintBatch(@RequestBody List<Insight> insights) {
+        return ResponseEntity.ok(insightService.mintBatch(insights));
     }
 
     @PostMapping("/remix")
