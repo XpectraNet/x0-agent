@@ -60,4 +60,4 @@ It reflects the values of **symbolic alignment**, **trust-based validation**, an
 Use it to build not just agents —  
 but **witnesses of time.**
 
-For questions or commercial license requests: [legal@xpectra.net](mailto:legal@xpectra.net)
+For questions or commercial license requests: [legal@xpectradata.com](mailto:legal@xpectradata.com)
