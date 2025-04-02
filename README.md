@@ -76,15 +76,14 @@ While RECALL provides the **infrastructure**, X-0 provides the **symbolic cognit
 
 ---
 
-## 🔐 XPDT Trust Layer
+## 💠 XPDT: The Insight Token
 
-Every minted insight:
-- Is staked with XPDT
-- Can be validated by Circles
-- May be remixed (expanded, inverted, ritualized)
-- Earns symbolic and tokenized value if aligned
+XPDT powers memory on XpectraNet.
 
-XPDT = the native token of insight.
+- 🔗 [XPDT on Etherscan](https://etherscan.io/address/0xf7254c8C8D21ab5947De9e83D516748B753a6F90)
+- 📜 [XPDT Tokenomics](https://xpectra.net/xpdt) *(coming soon)*
+
+Use it to mint, remix, validate, and traverse insight trails across time.
 
 ---
 
@@ -93,7 +92,6 @@ XPDT = the native token of insight.
 - Protocol → [https://xpectra.net](https://xpectra.net)
 - Whitepaper → [xpectra.net/whitepaper](https://xpectra.net/whitepaper)
 - Ontology → [xpectra.net/xko](https://xpectra.net/xko)
-- Token → XPDT (ERC-20) [XPDT on Etherscan](https://etherscan.io/address/0xf7254c8C8D21ab5947De9e83D516748B753a6F90)
 - Contact → [x0@xpectradata.com](mailto:x0@xpectradata.com)
 
 ---
