@@ -1,0 +1,7 @@
+type Insight @createModel(accountRelation: LIST, description: "Layered memory insight for symbolic graph") {
+  content: String! @string(maxLength: 2048)
+  layer: String! @string(minLength: 2, maxLength: 3)
+  tags: [String!]! @list(maxLength: 8)
+  cid: String! @string(maxLength: 128)
+  timestamp: DateTime!
+}
