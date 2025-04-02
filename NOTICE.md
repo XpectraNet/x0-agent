@@ -26,7 +26,7 @@ Read the full license here: [LICENSE.md](./LICENSE.md)
 **XpectraNet**, **Xpectra Insight**, **XPDT**, and **X-0** are trademarks of Xpectra Data Technologies Ltd.  
 Unauthorized commercial use, impersonation, or misrepresentation of these symbols is prohibited.
 
-For branding inquiries or permission, contact: [legal@xpectra.net](mailto:legal@xpectra.net)
+For branding inquiries or permission, contact: [legal@xpectradata.com](mailto:legal@xpectradata.com)
 
 ---
 
