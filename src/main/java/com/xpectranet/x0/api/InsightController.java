@@ -6,6 +6,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.http.ResponseEntity;
 
+/**
+ * REST controller to handle insight-related requests:
+ * minting, remixing, and validating.
+ */
 @RestController
 @RequestMapping("/api/insight")
 public class InsightController {
@@ -19,7 +23,16 @@ public class InsightController {
 
     @PostMapping("/mint")
     public ResponseEntity<String> mintInsight(@RequestBody Insight insight) {
-        String result = insightService.mintInsight(insight);
-        return ResponseEntity.ok(result);
+        return ResponseEntity.ok(insightService.mintInsight(insight));
+    }
+
+    @PostMapping("/remix")
+    public ResponseEntity<String> remixInsight(@RequestBody Insight insight) {
+        return ResponseEntity.ok(insightService.remixInsight(insight));
+    }
+
+    @PostMapping("/validate")
+    public ResponseEntity<String> validateInsight(@RequestBody Insight insight) {
+        return ResponseEntity.ok(insightService.validateInsight(insight));
     }
 }

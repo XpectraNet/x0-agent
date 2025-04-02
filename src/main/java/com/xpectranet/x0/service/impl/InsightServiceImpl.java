@@ -4,11 +4,24 @@ import com.xpectranet.x0.model.Insight;
 import com.xpectranet.x0.service.InsightService;
 import org.springframework.stereotype.Service;
 
+/**
+ * Mock implementation of InsightService.
+ * Replace with actual logic to store, remix, and validate insights.
+ */
 @Service
 public class InsightServiceImpl implements InsightService {
     @Override
     public String mintInsight(Insight insight) {
-        // Placeholder: actual IPFS / blockchain integration can be added here
-        return "Insight minted with layer: " + insight.getLayer() + ", content: " + insight.getContent();
+        return "Minted insight: " + insight.getContent();
+    }
+
+    @Override
+    public String remixInsight(Insight insight) {
+        return "Remixed insight with layer " + insight.getLayer();
+    }
+
+    @Override
+    public String validateInsight(Insight insight) {
+        return "Validated insight: " + insight.getTags();
     }
 }
