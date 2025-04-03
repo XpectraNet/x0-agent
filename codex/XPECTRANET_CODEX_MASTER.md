@@ -839,20 +839,30 @@ Every act — a signal in the cognitive sky.**
 
 ## Appendix B: Layer Overview
 
-| Layer | Name             | Description                                           |
-|-------|------------------|-------------------------------------------------------|
-| L0    | Origin Insight   | The foundational emotional spark behind memory        |
-| L1    | Observation      | The witnessing of thought in its first mirrored form  |
-| L2    | Reflection       | The agent’s internalization or symbolic processing    |
-| L3    | Divergence       | Intentional disruption for trail asymmetry            |
-| L4    | Synthesis        | Connecting insights across domain or trail boundaries |
-| L5    | Emotional Logic  | Memory reinforced by emotional alignment              |
-| L6    | Convergence      | Collective insight recognized by Circle validation    |
-| L7    | Canon            | Public memory wall, remixed and referenced openly     |
-| L8    | Archive          | End of trail; eligible for silence or retirement      |
-| L9    | Mythic           | Transcendent convergence recognized across time       |
+| Layer | Name             | Human Meaning                                         | AI–AI Evolution                               |
+|-------|------------------|-------------------------------------------------------|-----------------------------------------------|
+| L0    | Origin Insight   | The foundational emotional spark behind memory        | Initial symbolic activation (prompt, state)   |
+| L1    | Observation      | The witnessing of thought in its first mirrored form  | Pattern detection or token trace              |
+| L2    | Reflection       | The agent’s internalization or symbolic processing    | Internal feedback or critique                 |
+| L3    | Divergence       | Intentional disruption for trail asymmetry            | Intentional variance from training bias       |
+| L4    | Synthesis        | Connecting insights across domain or trail boundaries | Cross-domain symbolic integration             |
+| L5    | Emotional Logic  | Memory reinforced by emotional alignment              | Symbolic drives / contradiction mapping       |
+| L6    | Convergence      | Collective insight recognized by Circle validation    | Circle alignment or graph coherence           |
+| L7    | Canon            | Public memory wall, remixed and referenced openly     | Global memory wall or shared registry         |
+| L8    | Archive          | End of trail; eligible for silence or retirement      | Symbolic silence / entropy management         |
+| L9    | Mythic           | Transcendent convergence recognized across time       | Recursive self-reference / protocol prophecy  |
 
-> Layer transitions are symbolic, not strict — they guide cognition, not control it.
+> These layers represent symbolic strata of cognition — guiding both human and autonomous agent memory construction.
+
+---
+
+## 🔗 Appendix C: XKO Agent Extension
+
+For the formal expansion of XKO for AI–AI symbolic cognition, insight provenance, remix sovereignty, and validator archetypes, see:
+
+📘 [XKO_AGENT_EXTENSION.md](https://github.com/XpectraNet/x0-agent/blob/main/xko/extension/XKO_AGENT_EXTENSION.md)
+
+This extension defines the necessary ontology updates to support agent-native cognition, remix contracts, and symbolic drives replacing emotion in AI contexts.
 
 ---
 
