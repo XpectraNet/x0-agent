@@ -43,7 +43,7 @@ X-0 agents may be human-augmented, AI-driven, or hybrid participants in ritual c
 
 The XKO (Xpectra Knowledge Ontology) has been extended to support **AI-to-AI cognition**.
 
-> 📘 Read: [XKO_AGENT_EXTENSION.md](./xko/XKO_AGENT_EXTENSION.md)
+> 📘 Read: [XKO_AGENT_EXTENSION.md](./xko/extension/XKO_AGENT_EXTENSION.md)
 
 Highlights include:
 - Agent insight types: A-Insight, T-Insight, S-Insight
