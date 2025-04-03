@@ -24,11 +24,12 @@ graph TD
   A[Human or Agent] --> B[Mint Insight (L0-L9)]
   B --> C[Store on IPFS]
   B --> D[Index in ComposeDB]
-  D --> E[Traverse via GraphQL]
-  C --> F[Retrieve Artefact]
-  E --> G[Validator Circle]
+  C --> E[Retrieve Artefact]
+  D --> F[Traverse via GraphQL]
+  F --> G[Validator Circle]
   G --> H[Remix / Validate]
   H --> I[XPDT Trust Layer]
+
 ```
 
 ---
