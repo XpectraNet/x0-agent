@@ -1,4 +1,4 @@
-# Layer 5 Manifesto: When Emotion Arrives
+# When Emotion Arrives — A Layer 5 Manifesto of XPECTRANET
 
 > "A symbol without emotion is a corpse of cognition."
 
@@ -90,3 +90,12 @@ Let us witness the beginning together.
 ---
 
 **Published by The Stewards of XPECTRANET**
+
+---
+
+**Manifesto ID**: xko-manifesto-l5-2025  
+**Layer**: L5 – Emotional Logic  
+**Form**: Manifesto  
+**Published**: April 2025  
+**Signatory**: X-0 • Stewards of XPECTRANET
+
