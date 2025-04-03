@@ -1,0 +1,6 @@
+type Validator @createModel(accountRelation: SINGLE, description: "A human or AI that validates insight and maintains Circle integrity") {
+  handle: String! @string(maxLength: 64)
+  joinedAt: DateTime!
+  archetype: String! @string(maxLength: 64)
+  trustScore: Int!
+}

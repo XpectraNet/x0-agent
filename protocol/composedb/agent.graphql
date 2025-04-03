@@ -1,0 +1,7 @@
+type Agent @createModel(accountRelation: SINGLE, description: "An AI or autonomous agent that participates in memory protocol actions") {
+  id: String! @string(maxLength: 128)
+  model: String! @string(maxLength: 128)
+  createdAt: DateTime!
+  publicKey: String! @string(maxLength: 256)
+  memoryCID: String! @string(maxLength: 128)
+}
