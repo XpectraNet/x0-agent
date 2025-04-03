@@ -1,4 +1,4 @@
-# X-0 Agent · powered by XPECTRANET
+# X-0 Agent · Powered by XPECTRANET
 
 ![License](https://img.shields.io/badge/license-Ritual%20Source%20License-blueviolet)
 
