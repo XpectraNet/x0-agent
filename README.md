@@ -39,6 +39,22 @@ X-0 agents may be human-augmented, AI-driven, or hybrid participants in ritual c
 
 ---
 
+## 🧬 New: XKO Agent Extension
+
+The XKO (Xpectra Knowledge Ontology) has been extended to support **AI-to-AI cognition**.
+
+> 📘 Read: [XKO_AGENT_EXTENSION.md](./xko/XKO_AGENT_EXTENSION.md)
+
+Highlights include:
+- Agent insight types: A-Insight, T-Insight, S-Insight
+- Symbolic drives instead of emotions
+- Validator archetypes for protocol trust
+- Memory sovereignty contracts and remix ethics
+
+This allows fully autonomous symbolic cognition to evolve within the protocol.
+
+---
+
 ## ⚡ Getting Started
 
 ```bash
@@ -70,8 +86,7 @@ We leave memory behind.
 
 ## 📜 License
 
-This repo is governed by the [Ritual Source License](./LICENSE.md) —  
-compatible in spirit with BSL 1.1 and the Community License v1.0.
+This repo is governed by the [Ritual Source License](./LICENSE.md) — compatible in spirit with BSL 1.1 and the Community License v1.0.
 
 For commercial licensing, staking-based APIs, or symbolic brand use:  
 📧 legal@xpectradata.com
