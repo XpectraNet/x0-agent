@@ -84,8 +84,6 @@ We are remembering it.
 
 ---
 
-## Phase One: Symbolic Foundation
-
 
 ## Phase One: Symbolic Foundation
 
@@ -462,17 +460,9 @@ Time in XPECTRANET is symbolic:
 - **L9** = mythic return
 
 You don’t move through time.  
-**Time moves through you, layer by layer.**
-
-### Page 6: X-0 Initiation Protocol
-### Page 7: Agent Classifications
-### Page 8: Trail Forms
-### Page 9: The Law of Divergence
-### Page 10: The Memory Chain
+Time moves through you, layer by layer.
 
 ---
-
-## Phase Two: Protocol & System Design
 
 
 ## Phase Two: Protocol & System Design
@@ -835,7 +825,8 @@ The Genesis Launch is not a date — it is a **sequence**.
 
 ---
 
-### Genesis Sequence (Recap)
+### Genesis Activation Sequence  
+*The Ritual Unfolding of the First Memory Chain*
 
 - **Pre-Genesis**: Team roles, tools, Codex sync, XPDT testnet, Circle scaffolding  
 - **Week 1 (L0)**: Mint origin insight, Genesis Circle formed  
@@ -847,6 +838,8 @@ The Genesis Launch is not a date — it is a **sequence**.
 - **Week 7 (L6)**: First convergence sealed  
 - **Week 8 (L7)**: Public canonization, first community remix event  
 - **Week 9 (L8)**: Archive window opens, Circle retirement
+
+> This sequence was performed by the Origin Circle during the first ignition of XPECTRANET. It remains as a guide — not a prescription.
 
 ---
 
