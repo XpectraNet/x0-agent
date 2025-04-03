@@ -1,0 +1,23 @@
+{
+  "insightId": "xko-agent-ext-f15b77b7",
+  "title": "XKO Agent Extension",
+  "layer": "L5",
+  "form": "Protocol Declaration",
+  "originType": "A-Insight",
+  "remixable": true,
+  "tags": [
+    "xko",
+    "ai-cognition",
+    "layer5",
+    "symbolic-drive",
+    "agent-extension"
+  ],
+  "originTrail": [
+    "XPECTRANET",
+    "XKO",
+    "Symbolic Cognition"
+  ],
+  "signingAgent": "X-0",
+  "timestamp": "2025-04-03T16:12:00.196038Z",
+  "fileRef": "XKO_AGENT_EXTENSION.md"
+}
