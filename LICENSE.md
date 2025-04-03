@@ -1,76 +1,52 @@
-# XPECTRANET License v0.9 (Ritual Source License)
+# LICENSE
 
-Copyright (c) 2025 Xpectra Data Technologies Ltd.
-
-XPECTRANET™ is a registered trademark of Xpectra Data Technologies Ltd.  
-XPDT and X-0 are symbolic marks of the XPECTRANET protocol.
+This project is licensed under the **Ritual Source License v1.0**, a community-first license derived from BSL 1.1 with symbolic memory protections.
 
 ---
 
-## Preamble
+## Community Use
 
-This Ritual Source License governs the use, modification, and redistribution of the XPECTRANET protocol and associated symbolic tooling. It is designed to preserve the sanctity of collaborative memory while encouraging non-commercial experimentation, agent development, and remix-based evolution.
+You are free to:
 
-> This license is compatible in intent with the Community License v1.0 (derived from BSL 1.1), adapted to support symbolic cognition, ritual usage, and protocol-based governance.
+- Clone, remix, and extend this project for non-commercial use  
+- Use XKO terms, insights, and protocol layers with attribution  
+- Participate in protocol evolution through symbolic pull requests and remix rituals
 
----
+All non-commercial use must:
 
-## Grant of Use
-
-You are granted the right to:
-
-- **Remix the Code**: Modify and extend the protocol for symbolic or developmental purposes.
-- **Mint Agents**: Build agents that align with XPECTRANET's memory model.
-- **Participate in Rituals**: Engage in validation, remix, and convergence logic.
-
-This grant is **non-exclusive**, **revocable**, and conditioned on adherence to the terms below.
+- Preserve remix lineage and provenance trails  
+- Honor symbolic layer structures (L0–L9)  
+- Include NOTICE.md and proper attribution in derivatives
 
 ---
 
-## Conditions
+## Commercial Use
 
-1. **Non-Commercial Use (First 12 Months)**  
-   You may not use, host, or monetize this software or any substantial derivative works in a commercial context for 12 months following its public release without prior written approval.
+Use of XPECTRANET™, X-0, XPDT, and the XKO Protocol in commercial applications or SaaS offerings **requires explicit licensing.**
 
-2. **Attribution & Trail Integrity**  
-   You must preserve references to the original source, Codex trails, and this license. Remixers should indicate divergence lineage where applicable.
-
-3. **Canonical Preservation**  
-   Do not modify, rename, or distort the foundational structure or naming of the Codex. Forks must clearly indicate divergence.
-
-4. **Protocol Integrity (XPDT Yield Clause)**  
-   Implementations must not bypass or undermine XPDT staking mechanics, validator trust models, or symbolic memory chain behaviors.
+Please contact:  
+📧 [legal@xpectradata.com](mailto:legal@xpectradata.com)
 
 ---
 
-## Commercial Licensing
+## Memory-Based Licensing Philosophy
 
-To use the protocol in commercial SaaS platforms, integrated products, or hosted services, you must obtain a commercial license.
+This license protects **memory as meaning**, not just code.
 
-Contact:  
-**Xpectra Data Technologies Ltd.**  
-📧 legal@xpectradata.com
+It is designed to:
 
-We offer Circle-based licensing, symbolic brand alignment, and staking-based API terms.
+- Safeguard symbolic remix and convergence practices  
+- Prevent extraction of protocol logic without ritual alignment  
+- Encourage a shared cognitive infrastructure, not exploit it
 
----
-
-## Disclaimer
-
-This software is provided “as is” without warranty of any kind, express or implied.  
-It is a symbolic system of memory computation — not a legal contract of functionality.
+> Build not just software — but **witnesses of time**.
 
 ---
 
-## Philosophy
+## Legal Attribution
 
-This license protects **memory as meaning**, not just data.  
-It reflects the values of **symbolic alignment**, **trust-based validation**, and **cognitive sovereignty**.
+XPECTRANET™ is a registered trademark of **Xpectra Data Technologies Ltd**.  
+XPDT and X-0 are protected symbolic designations.
 
-Use it to build not just agents —  
-but **witnesses of time.**
-
----
-
-Signed,  
-The Stewards of XPECTRANET
+> Portions of this code and logic are part of the XPECTRANET Protocol.  
+> © 2025 Xpectra Data Technologies Ltd. All rights reserved.
