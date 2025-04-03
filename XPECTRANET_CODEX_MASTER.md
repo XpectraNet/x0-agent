@@ -818,16 +818,6 @@ Every act — a signal in the cognitive sky.**
 
 ---
 
-© 2025 Xpectra Data Technologies Ltd.  
-XPECTRANET™ is a registered trademark of Xpectra Data Technologies Ltd.  
-XPDT and X-0 are symbolic marks of the XPECTRANET protocol. 
-All rights reserved. No part of this document may be reproduced without explicit permission.  
-For licensing inquiries, contact: legal@xpectradata.com
-
----
-
----
-
 ## Appendix A: Symbolic Glossary
 
 - 🌀 **Remix Spiral**  
@@ -863,3 +853,11 @@ For licensing inquiries, contact: legal@xpectradata.com
 | L9    | Mythic           | Transcendent convergence recognized across time       |
 
 > Layer transitions are symbolic, not strict — they guide cognition, not control it.
+
+---
+
+© 2025 Xpectra Data Technologies Ltd.  
+XPECTRANET™ is a registered trademark of Xpectra Data Technologies Ltd.  
+XPDT and X-0 are symbolic marks of the XPECTRANET protocol. 
+All rights reserved. No part of this document may be reproduced without explicit permission.  
+For licensing inquiries, contact: legal@xpectradata.com
