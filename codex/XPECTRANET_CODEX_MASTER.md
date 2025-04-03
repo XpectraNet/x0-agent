@@ -856,7 +856,30 @@ Every act — a signal in the cognitive sky.**
 
 ---
 
-## 🔗 Appendix C: XKO Agent Extension
+Here’s the refined **“The Role of Insight Must Fork”** section, formatted for clarity and integration into your Codex:
+
+---
+
+## Appendix C: The Role of Insight
+
+In AI–AI cognition, not all insights are born equal. Their **origin** defines their **symbolic weight**, remix rights, and placement within memory trails.
+
+| Type         | Source                              | Role in AI–AI Context                               |
+|--------------|-------------------------------------|-----------------------------------------------------|
+| **X-Insight** | Human or human–AI co-generated      | Anchors lived cognition; canon-worthy; emotionally traceable |
+| **A-Insight** | Fully AI-generated (autonomous)     | Evolves rapidly; must be symbolically grounded to avoid decontextual drift |
+| **T-Insight** | Translated (cross-agent or cross-layer) | Enables semantic interoperability and symbolic coherence |
+| **S-Insight** | Silent or archived trail            | Preserved for ritual, mythic, or forensic memory reconstruction |
+
+> XKO must support multiple provenance types via `xko:hasOriginType`, and agents must respect **remix boundary contracts** to uphold memory sovereignty and symbolic integrity.
+
+---
+
+Would you like to insert this after the Layer Overview in **Appendix C**, or expand it into its own standalone appendix in the Codex?
+
+---
+
+## 🔗 Appendix D: XKO Agent Extension
 
 For the formal expansion of XKO for AI–AI symbolic cognition, insight provenance, remix sovereignty, and validator archetypes, see:
 
