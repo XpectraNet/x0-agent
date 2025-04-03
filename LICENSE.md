@@ -1,22 +1,17 @@
-# XpectraNet Community License v1.0 (Based on BSL 1.1)
+# XPECTRANET License v0.9 (Ritual Source License)
 
 Copyright (c) 2025 Xpectra Data Technologies Ltd.
 
-This Source Code is subject to the terms of the XpectraNet Community License v1.0 (the “License”) and may not be used or distributed except in compliance with the License.
-
-You may obtain a copy of the License at:
-
-    https://xpectra.net/license
+XPECTRANET™ is a registered trademark of Xpectra Data Technologies Ltd.  
+XPDT and X-0 are symbolic marks of the XPECTRANET protocol.
 
 ---
 
-## Summary
+## Preamble
 
-The XpectraNet Community License is a derivative of the Business Source License (BSL 1.1). It is designed to:
+This Ritual Source License governs the use, modification, and redistribution of the XPECTRANET protocol and associated symbolic tooling. It is designed to preserve the sanctity of collaborative memory while encouraging non-commercial experimentation, agent development, and remix-based evolution.
 
-- Encourage **non-commercial**, **symbolic**, and **protocol-aligned** development.
-- Restrict unaligned or extractive commercial exploitation.
-- Protect the **ritual, memory, and economic integrity** of the XpectraNet Protocol.
+> This license is compatible in intent with the Community License v1.0 (derived from BSL 1.1), adapted to support symbolic cognition, ritual usage, and protocol-based governance.
 
 ---
 
@@ -24,31 +19,46 @@ The XpectraNet Community License is a derivative of the Business Source License 
 
 You are granted the right to:
 
-- Use, copy, and modify this code for **non-commercial**, **research**, **educational**, or **personal** purposes.
-- Use this agent framework to build symbolic agents that interact with or extend the XpectraNet Protocol.
-- Remix or contribute to this agent in ways that align with the principles of **layered insight**, **cognitive traceability**, and **XPDT-staked memory**.
+- **Remix the Code**: Modify and extend the protocol for symbolic or developmental purposes.
+- **Mint Agents**: Build agents that align with XPECTRANET's memory model.
+- **Participate in Rituals**: Engage in validation, remix, and convergence logic.
+
+This grant is **non-exclusive**, **revocable**, and conditioned on adherence to the terms below.
 
 ---
 
-## Limitations
+## Conditions
 
-You MAY NOT:
+1. **Non-Commercial Use (First 12 Months)**  
+   You may not use, host, or monetize this software or any substantial derivative works in a commercial context for 12 months following its public release without prior written approval.
 
-- Use this code or derivatives for commercial purposes, including hosting services or paid APIs, without an explicit commercial license.
-- Fork, clone, or rebrand this code as a competing protocol or agent framework.
-- Use this code in ways that bypass or violate the XPDT staking model or Validator Circle trust economy.
+2. **Attribution & Trail Integrity**  
+   You must preserve references to the original source, Codex trails, and this license. Remixers should indicate divergence lineage where applicable.
+
+3. **Canonical Preservation**  
+   Do not modify, rename, or distort the foundational structure or naming of the Codex. Forks must clearly indicate divergence.
+
+4. **Protocol Integrity (XPDT Yield Clause)**  
+   Implementations must not bypass or undermine XPDT staking mechanics, validator trust models, or symbolic memory chain behaviors.
 
 ---
 
-## Future Commercial Use
+## Commercial Licensing
 
-The source code will automatically transition to a more permissive open-source license (e.g. Apache 2.0 or MIT) on **May 1, 2028**, unless otherwise extended by the protocol governance DAO.
+To use the protocol in commercial SaaS platforms, integrated products, or hosted services, you must obtain a commercial license.
+
+Contact:  
+**Xpectra Data Technologies Ltd.**  
+📧 legal@xpectradata.com
+
+We offer Circle-based licensing, symbolic brand alignment, and staking-based API terms.
 
 ---
 
-## Contributions
+## Disclaimer
 
-By contributing to this project, you agree that your code contributions may be licensed under the same license.
+This software is provided “as is” without warranty of any kind, express or implied.  
+It is a symbolic system of memory computation — not a legal contract of functionality.
 
 ---
 
@@ -60,4 +70,7 @@ It reflects the values of **symbolic alignment**, **trust-based validation**, an
 Use it to build not just agents —  
 but **witnesses of time.**
 
-For questions or commercial license requests: [legal@xpectradata.com](mailto:legal@xpectradata.com)
+---
+
+Signed,  
+The Stewards of XPECTRANET
