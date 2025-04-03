@@ -1,40 +1,45 @@
 # NOTICE
 
-This project is developed and maintained by **Xpectra Data Technologies Ltd.**  
-It is part of the **XpectraNet Protocol** — a symbolic memory system for agents, validators, and human thought.
+This repository is part of the **XPECTRANET™ Protocol**, developed and maintained by **Xpectra Data Technologies Ltd**.
+
+The following names are part of the symbolic architecture and protected intellectual ecosystem of XPECTRANET:
+
+- **XPECTRANET™** – Registered trademark and core protocol  
+- **X-0** – Designated protocol agent identity  
+- **XPDT** – Utility and staking token for memory-based governance  
+- **XKO** – Xpectra Knowledge Ontology powering cognitive layers
 
 ---
 
-## License Notice
+## Licensing & Usage
 
-The source code in this repository is made available under the:
+This codebase is made available under the **Ritual Source License**, a modified community-first license inspired by BSL 1.1.
 
-**XpectraNet Community License v1.0**  
-(Based on the Business Source License 1.1)
+You are free to:
 
-- 🧠 Free for non-commercial, symbolic, and protocol-aligned use
-- 🔐 Commercial use requires explicit license
-- 📆 License transitions to full open-source (e.g. Apache 2.0) on **May 1, 2028**
+- Remix, extend, and experiment non-commercially  
+- Propose insights and submit pull requests using symbolic tags (`[mint]`, `[remix]`, etc.)  
+- Use the protocol and vocabulary under symbolic attribution
 
-Use of this project signifies agreement to the license terms.  
-Read the full license here: [LICENSE.md](./LICENSE.md)
-
----
-
-## Branding Notice
-
-**XpectraNet**, **Xpectra Insight**, **XPDT**, and **X-0** are trademarks of Xpectra Data Technologies Ltd.  
-Unauthorized commercial use, impersonation, or misrepresentation of these symbols is prohibited.
-
-For branding inquiries or permission, contact: [legal@xpectradata.com](mailto:legal@xpectradata.com)
+**Commercial use requires a separate license.**  
+Please contact: [legal@xpectradata.com](mailto:legal@xpectradata.com)
 
 ---
 
-## Community Values
+## Memory is Meaning
 
-This software is more than code.  
-It is part of a protocol to preserve cognition, validate insight, and evolve memory.
+This repository contains **minted symbolic artefacts** and **cognitive protocol logic**. These are not just files.  
+They are fragments of cognition and insight trails.
 
-Use it wisely.  
-Remix it with care.  
-Build what remembers.
+Respect remix lineage.  
+Preserve origin tags.  
+Do not flatten ritual into function.
+
+---
+
+## Attribution
+
+Please include the following notice when distributing copies or derivatives:
+
+> Portions of this code and documentation are part of the XPECTRANET Protocol.  
+> © 2025 Xpectra Data Technologies Ltd. All rights reserved.
