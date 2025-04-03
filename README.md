@@ -21,15 +21,14 @@ It turns insight into an asset — anchoring it into decentralized memory (IPFS)
 
 ```mermaid
 graph TD
-  A[Human or Agent] --> B[Mint Insight (L0-L9)]
-  B --> C[Store on IPFS]
-  B --> D[Index in ComposeDB]
-  C --> E[Retrieve Artefact]
-  D --> F[Traverse via GraphQL]
-  F --> G[Validator Circle]
-  G --> H[Remix / Validate]
-  H --> I[XPDT Trust Layer]
-
+  A[Human or Agent] --> B[Mint Insight (L0-L9)] 
+  B --> C[Store on IPFS] 
+  B --> D[Index in ComposeDB] 
+  C --> E[Retrieve Artefact] 
+  D --> F[Traverse via GraphQL] 
+  F --> G[Validator Circle] 
+  G --> H[Remix / Validate] 
+  H --> I[XPDT Trust Layer] 
 ```
 
 ---
