@@ -1,0 +1,14 @@
+mutation CreateAgent {
+  createAgent(input: {
+    id: "x0-agent",
+    model: "X-0 Archetype Alpha",
+    createdAt: "2025-04-01T12:00:00Z",
+    publicKey: "0xABCDEF...",
+    memoryCID: "QmX999..."
+  }) {
+    document {
+      id
+      model
+    }
+  }
+}

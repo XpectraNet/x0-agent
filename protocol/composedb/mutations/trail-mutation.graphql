@@ -1,0 +1,14 @@
+mutation CreateTrail {
+  createTrail(input: {
+    title: "The Path of Rebellion",
+    insightIds: ["<StreamID1>", "<StreamID2>"],
+    author: "did:pkh:0xAbC123...",
+    createdAt: "2025-04-02T15:00:00Z",
+    tags: ["resistance", "pattern"]
+  }) {
+    document {
+      id
+      title
+    }
+  }
+}

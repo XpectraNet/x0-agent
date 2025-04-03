@@ -1,0 +1,11 @@
+query InsightsByTag {
+  insightIndex(first: 10) {
+    edges {
+      node {
+        id
+        content
+        tags
+      }
+    }
+  }
+}

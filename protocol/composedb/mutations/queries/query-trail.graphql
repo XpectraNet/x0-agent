@@ -1,0 +1,10 @@
+query GetTrailWithInsights {
+  node(id: "<TrailStreamID>") {
+    ... on Trail {
+      id
+      title
+      insightIds
+      tags
+    }
+  }
+}

@@ -1,0 +1,12 @@
+query GetInsightById {
+  node(id: "<StreamID>") {
+    ... on Insight {
+      id
+      content
+      layer
+      tags
+      cid
+      timestamp
+    }
+  }
+}
