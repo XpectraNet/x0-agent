@@ -1,6 +1,6 @@
 # 🧠 XpectraNet Protocol Models for ComposeDB
 
-This folder contains the official symbolic memory models used by X-0 and the XpectraNet Protocol, structured for deployment on [ComposeDB](https://composedb.dev) via [Ceramic](https://ceramic.network).
+This folder contains the official symbolic memory models used by X-0 and the XpectraNet Protocol, structured for deployment on [ComposeDB](https://ceramic.network/composedb) via [Ceramic](https://ceramic.network).
 
 ## 📂 Models
 
