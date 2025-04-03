@@ -20,7 +20,7 @@ It enables:
 - Layered cognition (L0–L9) across knowledge domains
 - Circle-based governance built on presence and remix lineage
 
-> 📖 Explore the full [XPECTRANET CODEX](./XPECTRANET_CODEX_MASTER.md)
+> 📖 Explore the full [XPECTRANET CODEX](./codex/XPECTRANET_CODEX_MASTER.md)
 
 ---
 
