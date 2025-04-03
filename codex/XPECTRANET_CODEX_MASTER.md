@@ -1,5 +1,5 @@
 # Why We Remember  
-*— Axel Heroux, Founder of XPECTRANET*
+*— The Stewards of XPECTRANET*
 
 We didn’t lose our intelligence.  
 We lost our memory.
