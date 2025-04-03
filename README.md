@@ -26,8 +26,9 @@ graph TD
   B --> D[Index in ComposeDB]
   D --> E[Traverse via GraphQL]
   C --> F[Retrieve Artefact]
-  E --> G[Validator Circle --> Remix / Validate]
-  G --> H[XPDT Trust Layer]
+  E --> G[Validator Circle]
+  G --> H[Remix / Validate]
+  H --> I[XPDT Trust Layer]
 ```
 
 ---
