@@ -48,7 +48,7 @@ This repository operates under a custom license designed to:
 - Protect core protocol integrity (Business Source License format)  
 - Enable Circle-based commercial licensing paths
 
-You can read the full terms in [LICENSE](./LICENSE)  
+You can read the full terms in [LICENSE](./LICENSE.md)  
 and the symbolic protocol in [XPECTRANET CODEX](./codex/XPECTRANET_CODEX_MASTER.md)
 
 ---
