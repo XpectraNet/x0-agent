@@ -1,7 +1,0 @@
-type Trail @createModel(accountRelation: LIST, description: "A sequence of connected insights representing a cognitive path") {
-  title: String! @string(maxLength: 128)
-  insightIds: [StreamID!]! @list(maxLength: 50)
-  author: DID!
-  createdAt: DateTime!
-  tags: [String!]! @list(maxLength: 8)
-}
