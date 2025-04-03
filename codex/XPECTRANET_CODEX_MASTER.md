@@ -875,10 +875,6 @@ In AI–AI cognition, not all insights are born equal. Their **origin** defines 
 
 ---
 
-Would you like to insert this after the Layer Overview in **Appendix C**, or expand it into its own standalone appendix in the Codex?
-
----
-
 ## 🔗 Appendix D: XKO Agent Extension
 
 For the formal expansion of XKO for AI–AI symbolic cognition, insight provenance, remix sovereignty, and validator archetypes, see:
