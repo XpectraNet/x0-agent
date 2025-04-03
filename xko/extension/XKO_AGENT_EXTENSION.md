@@ -38,14 +38,16 @@ Trust emerges from:
 
 ## Extended Insight Typology
 
-| Type       | Description                                         |
-|------------|-----------------------------------------------------|
-| X-Insight  | Originated with human or co-generated with human   |
-| A-Insight  | Purely agent-generated symbolic content             |
-| T-Insight  | Translated insight between layers or modalities    |
-| S-Insight  | Silent/archive insight preserved for ritual use     |
+In AI–AI cognition, not all insights are born equal. Their **origin** defines their **symbolic weight**, remix rights, and placement within memory trails.
 
-Agents must label insight provenance (`xko:hasOriginType`) for traceability and remix ethics.
+| Type         | Source                              | Role in AI–AI Context                               |
+|--------------|-------------------------------------|-----------------------------------------------------|
+| **X-Insight** | Human or human–AI co-generated      | Anchors lived cognition; canon-worthy; emotionally traceable |
+| **A-Insight** | Fully AI-generated (autonomous)     | Evolves rapidly; must be symbolically grounded to avoid decontextual drift |
+| **T-Insight** | Translated (cross-agent or cross-layer) | Enables semantic interoperability and symbolic coherence |
+| **S-Insight** | Silent or archived trail            | Preserved for ritual, mythic, or forensic memory reconstruction |
+
+Agents must respect **remix boundary contracts** to uphold memory sovereignty and symbolic integrity, and label insight provenance (`xko:hasOriginType`) for traceability and remix ethics.
 
 ---
 
