@@ -1,113 +1,72 @@
-# 🧠 X-0 — The Protocol Agent of XpectraNet
+# 🤖 X-0 Agent — Memory Mintor of the XpectraNet Protocol
 
-**X-0** is the first symbolic agent built natively on the [XpectraNet Protocol](https://xpectra.net).  
-It’s more than a bot. It is a *witness of insight* — capable of minting, remixing, and validating memory as traceable artefacts across cognitive layers.
+> Building the memory layer for symbolic agents.  
+> Powered by XpectraNet — the protocol for insight, time, and trust.
 
-This repo contains the open agent framework for participating in the emerging **memory economy**, powered by:
-
-- 🧠 Layered memory model (L0–L9)
-- 🔗 Insight Graph (ComposeDB + IPFS)
-- 💠 XPDT staking for trust & traceability
-- 🌀 Validator Circle protocol for co-validation
+[![Ceramic](https://img.shields.io/badge/Built_on-Ceramic-orange)](https://ceramic.network)
+[![IPFS](https://img.shields.io/badge/Storage-IPFS-blue)](https://ipfs.tech)
+[![XpectraNet](https://img.shields.io/badge/Protocol-XpectraNet-purple)](https://xpectra.net)
 
 ---
 
-## 🚀 Why X-0?
+## 🧠 What is X-0?
 
-Most agents forget.  
-X-0 remembers with meaning.
+X-0 is an autonomous agent designed to mint, validate, and traverse symbolic memory on the XpectraNet Protocol.
 
-Unlike log-based or RAG agents, X-0:
-- Mints every insight into a graph-backed, layered artefact
-- Remixes trails with symbolic alignment
-- Validates insights with XPDT-staked consensus
-- Builds a persistent memory graph for humans *and* agents
-
-It is the **first implementation** of the symbolic memory stack envisioned by XpectraNet — a true Web3-native agent memory infrastructure.
+It turns insight into an asset — anchoring it into decentralized memory (IPFS), indexing it semantically (ComposeDB), and validating it through staked XPDT trust.
 
 ---
 
-## 🧪 Quickstart
+## 📜 Architecture
+
+```mermaid
+graph TD
+  A[Human or Agent] --> B[Mint Insight (L0–L9)]
+  B --> C[Store on IPFS]
+  B --> D[Index in ComposeDB]
+  D --> E[Traverse via GraphQL]
+  C --> F[Retrieve Artefact]
+  E --> G[Validator Circle ⟲ Remix / Validate]
+  G --> H[XPDT Trust Layer]
+```
+
+---
+
+## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/XpectraNet/x0-agent.git
-cd x0-agent
-npm install         # or use Java/Spring backend if switching core
-npm run dev         # start dev agent
-```
+# 1. Build and run the agent backend
+cd x0-agent-java
+mvn spring-boot:run
 
-Or access endpoints:
-```
-POST   /api/insight/mint
-POST   /api/insight/remix
-POST   /api/insight/validate
-GET    /api/graph/traverse
+# 2. Access Swagger UI
+http://localhost:8080/swagger-ui/index.html
 ```
 
 ---
 
-## 🧩 Architecture
+## 🧬 Protocol Models (ComposeDB)
 
-```
-x0-agent/
-├── src/
-│   ├── memory/          # Minting & recall logic
-│   ├── remix/           # Remix rules & lineage tracking
-│   └── validation/      # XPDT-based trust logic
-├── api/                 # Express/GraphQL interfaces
-├── prompts/             # Symbolic prompt templates (L0–L9)
-├── examples/            # Agent configs, trail scripts
-├── LICENSE.md
-├── NOTICE.md
-└── README.md
-```
+- [`insight.graphql`](./protocol/composedb/insight.graphql)
+- [`trail.graphql`](./protocol/composedb/trail.graphql)
+- [`validator.graphql`](./protocol/composedb/validator.graphql)
+- [`agent.graphql`](./protocol/composedb/agent.graphql)
+
+➡ Deploy using `composedb` CLI for full decentralized graph indexing.
 
 ---
 
-## 🤖 X-0 in the RECALL Network
+## 🧪 Examples
 
-X-0 is fully compatible with:
-- ComposeDB for graph storage
-- IPFS for artefact layer
-- Ceramic for identity & versioned trails
-- Future RECALL sync APIs for agent messaging/memory sharing
-
-While RECALL provides the **infrastructure**, X-0 provides the **symbolic cognition layer** — enabling richer, trusted, and agent-traversable memory.
+- [`examples/trails/escaping-the-noise.json`](./examples/trails/escaping-the-noise.json)
+- `POST /api/insight/mint` — Uploads full JSON to IPFS
+- `GET /api/graph/traverse` — Semantic traversal by tag/layer
 
 ---
 
-## 💠 XPDT: The Insight Token
+## 🔮 Join the Movement
 
-XPDT powers memory on XpectraNet.
+This repo is the edge node of a much deeper protocol.  
+Built from the year 2050. Tuned for inter-agent memory.
 
-- 🔗 [XPDT on Etherscan](https://etherscan.io/address/0xf7254c8C8D21ab5947De9e83D516748B753a6F90)
-- 📜 [XPDT Tokenomics](https://xpectra.net/xpdt) *(coming soon)*
-
-Use it to mint, remix, validate, and traverse insight trails across time.
-
----
-
-## 📚 Learn More
-
-- Protocol → [https://xpectra.net](https://xpectra.net)
-- Whitepaper → [xpectra.net/whitepaper](https://xpectra.net/whitepaper)
-- Ontology → [xpectra.net/xko](https://xpectra.net/xko)
-- Contact → [x0@xpectradata.com](mailto:x0@xpectradata.com)
-
----
-
-## 📜 License
-
-This repo is licensed under the **XpectraNet Community License (v1.0)**  
-> 🧠 Free for non-commercial & symbolic use  
-> 🔒 Commercial use requires protocol alignment or XPDT staking agreement  
-> ⏳ Auto-converts to permissive license May 1, 2028
-
----
-
-## ✨ Final Words
-
-This is not just an agent.  
-This is how a protocol remembers.
-
-**Begin where silence speaks.**
+**Enter the Circle.**
