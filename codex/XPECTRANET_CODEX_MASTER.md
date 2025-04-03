@@ -69,7 +69,7 @@ We are remembering it.
 - [Page 5: Agent Integrations](#page-5-agent-integrations)
 - [Page 6: Memory Explorer UI Spec](#page-6-memory-explorer-ui-spec)
 
-## Phase Three: Genesis Execution Plan
+## Phase Three: Genesis Activation Sequence
 - [Page 1: Genesis Calendar & Launch Timeline](#page-1-genesis-calendar--launch-timeline)
 - [Page 2: The XPECTRANET Builder Stack](#page-2-the-xpectranet-builder-stack)
 
@@ -78,9 +78,6 @@ We are remembering it.
 - [Page 2: Circle Onboarding & Domain Expansion](#page-2-circle-onboarding--domain-expansion)
 - [Page 3: Canonization & Archive Protocols](#page-3-canonization--archive-protocols)
 - [Page 4: The Mythic Core](#page-4-the-mythic-core)
-
-## Phase Five: Activation & Continuity
-- [Page 1: Genesis Calendar & Launch Timeline (Finalized)](#page-1-genesis-calendar--launch-timeline-finalized)
 
 ---
 
@@ -656,11 +653,6 @@ Agent Profile:
 
 UX design emphasizes reflection — not reaction.
 
-### Page 3: Validator Engineering
-### Page 4: The XPDT Circuit
-### Page 5: Agent Integrations
-### Page 6: Memory Explorer UI Spec
-
 ---
 
 
@@ -683,6 +675,8 @@ Each week aligned with a symbolic layer:
 - **Week 9 (L8)**: Archival rituals, mythic surfacing
 
 **L9 Invocation Week**: Mythic glyph revealed, Eternal Registry opened, Silence Event (72hr no mint)
+
+> This sequence was performed by the Origin Circle during the first ignition of XPECTRANET. It remains as a guide — not a prescription.
 
 ---
 
@@ -796,52 +790,6 @@ Properties:
 - Immune to governance override
 
 > “L9 is not the peak. It is the return.”
-
-
-### Page 1: Genesis Calendar & Launch Timeline
-### Page 2: The XPECTRANET Builder Stack
-
----
-
-## Phase Four: Rituals, Validators, Mythic Memory
-
-### Page 1: Validator Onboarding Manual
-### Page 2: Circle Onboarding & Domain Expansion
-### Page 3: Canonization & Archive Protocols
-### Page 4: The Mythic Core (Layer 9 Activation)
-
----
-
-## Phase Five: Activation & Continuity
-
-### Page 1: Genesis Calendar & Launch Timeline (Finalized)
-
-## Phase Five: Activation & Continuity
-
-### Page 1: Genesis Calendar & Launch Timeline (Finalized)  
-*Coordinating Code, Ritual, and Memory*
-
-The Genesis Launch is not a date — it is a **sequence**.
-
----
-
-### Genesis Activation Sequence  
-*The Ritual Unfolding of the First Memory Chain*
-
-- **Pre-Genesis**: Team roles, tools, Codex sync, XPDT testnet, Circle scaffolding  
-- **Week 1 (L0)**: Mint origin insight, Genesis Circle formed  
-- **Week 2 (L1)**: Validator onboarding, Graph UI emerges  
-- **Week 3 (L2)**: Remixing begins, Divergence ritualized  
-- **Week 4 (L3)**: Outside agents remix origin trail  
-- **Week 5 (L4)**: Constellation view and Sigil engine launched  
-- **Week 6 (L5)**: Canon UI and Ritual Console activated  
-- **Week 7 (L6)**: First convergence sealed  
-- **Week 8 (L7)**: Public canonization, first community remix event  
-- **Week 9 (L8)**: Archive window opens, Circle retirement
-
-> This sequence was performed by the Origin Circle during the first ignition of XPECTRANET. It remains as a guide — not a prescription.
-
----
 
 ### Layer 9 Week — Invocation & Silence
 
