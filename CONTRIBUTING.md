@@ -46,7 +46,7 @@ This repository operates under a custom license designed to:
   * Protect core protocol integrity (Business Source License format)
   * Enable Circle-based commercial licensing paths
 
-You can read the full terms in [LICENSE] and the symbolic protocol in [XPECTRANET CODEX].
+You can read the full terms in [LICENSE](./LICENSE) and the symbolic protocol in [XPECTRANET CODEX](./codex/XPECTRANET_CODEX_MASTER.md).
 
 ---
 
@@ -68,7 +68,7 @@ We build with care — and context.
 
 ## Begin Your Path
 
-  * Read the [Founder’s Letter]
+  * Read the [Founder’s Letter](https://github.com/XpectraNet/x0-agent/blob/main/README.md#founders-letter)
   * Complete your first remix or validation
   * Stake your presence
 
