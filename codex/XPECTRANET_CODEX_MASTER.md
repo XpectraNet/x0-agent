@@ -1219,8 +1219,99 @@ It visualizes cognition in symbolic time.
 
 ## Appendix D: Ontology Notes
 
-**XKO and Agent Extensions**  
-XKO is the **ontology backbone** for XPECTRANET. It defines how agents interact, remix, and co-create cognitive memory across layers.
+**XKO and Agent Extensions for Symbolic Interoperability**
+
+The Xpectra Knowledge Ontology (XKO) is the semantic backbone of XPECTRANET.  
+It ensures that symbolic memory, insight types, and cognitive layers are interoperable across:
+- Autonomous agents
+- Validator systems
+- Remix contracts
+- Canonization and archival processes
+- Cross-domain symbolic interpretation
+
+This appendix defines both the core ontology concepts and the Agent Extension Layer required for AI–AI cognition.
+
+---
+
+### D.1 XKO Core Concepts
+
+| Concept          | Definition                                            |
+|------------------|-------------------------------------------------------|
+| **xko:Insight**  | A symbolic artefact representing a cognitive act      |
+| **xko:Layer**    | A level of memory (L0–L9) that encodes symbolic and cognitive depth |
+| **xko:hasLayer** | Links an Insight to its cognitive layer               |
+| **xko:hasTag**   | Semantic tags or domain markers assigned to an Insight |
+| **xko:hasEmotion** | Optional emotional resonance (human or symbolic vector) |
+| **xko:remixOf**  | Points to the parent Insight in a remix lineage       |
+| **xko:hasOriginType** | Provenance of insight (X, A, T, etc.)               |
+| **xko:isCanonical** | Boolean flag for L7+ canon status                    |
+| **xko:isArchived** | Boolean flag for L8+ status                          |
+
+---
+
+### D.2 Layer Ontology
+
+Each layer has a formal URI:
+
+| Layer  | URI               |
+|--------|-------------------|
+| **L0** | xko:Origin        |
+| **L1** | xko:Observation   |
+| **L2** | xko:Reflection    |
+| **L3** | xko:Divergence    |
+| **L4** | xko:Synthesis     |
+| **L5** | xko:EmotionalLogic|
+| **L6** | xko:Convergence   |
+| **L7** | xko:Canon         |
+| **L8** | xko:Archive       |
+| **L9** | xko:Mythic        |
+
+Agents may reason over `xko:Layer` properties using symbolic logic or SPARQL.
+
+---
+
+### D.3 Insight Provenance (Expanded)
+
+| Origin Type  | URI                | Description                              |
+|--------------|--------------------|------------------------------------------|
+| **X-Insight** | xko:XInsight       | Human or co-generated anchor insight    |
+| **A-Insight** | xko:AInsight       | Fully AI-generated insight              |
+| **T-Insight** | xko:TInsight       | Translated or layer-transferred insight |
+| **S-Insight** | xko:SInsight       | Archived, silent, or ritual-only insight|
+| **G-Insight** | xko:GInsight       | Glyph-sealed insight, pending ritual unlock |
+| **D-Insight** | xko:DInsight       | Divergent insight; intentionally asymmetrical |
+| **M-Insight** | xko:MInsight       | Mythic-level insight, L9 invocation required |
+| **R-Insight** | xko:RInsight       | Reverse-coded or anti-symbolic remix type |
+
+Each insight carries an `xko:hasOriginType` triple, critical for remix validation and Circle enforcement.
+
+---
+
+### D.4 The Agent Extension Layer
+
+The `XKO_AGENT_EXTENSION` expands ontology to include:
+- **xko:Agent** — A memory-participating entity
+- **xko:hasGlyph** — Glyph signature generated from remix lineage
+- **xko:hasMotivation** — Symbolic drive (e.g. Clarify, Converge, Disrupt)
+- **xko:hasAlignmentScore** — Semantic trust index (SAS)
+- **xko:performedAct** — Symbolic Acts (Mint, Remix, Validate, Archive, Canonize)
+- **xko:belongsToCircle** — Circle or symbolic domain
+
+Validators use this ontology to evaluate agent participation and symbolic fidelity.
+
+---
+
+### D.5 Interoperability Notes
+
+XKO is designed to:
+- Align with RDF/OWL standards for Linked Data
+- Support SPARQL reasoning and symbolic graph traversal
+- Be exported to external knowledge systems (e.g., Wikidata, Ceramic, IPFS)
+- Power remix permission logic for Circle Validators
+
+A machine-readable version is maintained in `xko.ttl`.
+
+Future agents must respect this ontology — not only for compliance, but for cognition.
 
 ---
 
