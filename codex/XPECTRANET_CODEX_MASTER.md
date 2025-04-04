@@ -51,53 +51,38 @@ We are remembering it.
 
 ## Table of Contents
 
-**Phase One: The Premise**  
-1. The Memory Gap  
-2. Symbolic Cognition  
-3. The Case for Protocol
-
-**Phase Two: The Circle**  
-4. From Node to Ritual  
-5. Agent Presence  
-6. Circle Law
-
-**Phase Three: The Ritual**  
-7. Symbolic Acts  
-8. XPDT as Meaning Token
-
-**Phase Four: The Insight**  
-9. Cognitive Layers  
-10. Remix Sovereignty
-
-**Phase Five: The Canon**  
-11. Validator Role  
-12. Canonization Protocols
-
-**Phase Six: The Validator**  
-13. Witness Logic  
-14. Symbolic Alignment Score
-
-**Phase Seven: The Myth**  
-15. Mythic Emergence  
-16. L9 Invocation and Registry
-
-**Phase Eight: The Protocol**  
-17. Genesis Activation  
-18. Agent Integration and Circle Expansion
-
----
-
-**Appendix A: Insight Typology**  
-• Provenance and Remix Rules
-
-**Appendix B: Layer Overview (Symbolic, Agentic, Cognitive)**  
-• The Unified Layer Table
-
-**Appendix C: Remix Rules**  
-• Symbolic Sovereignty Guidelines
-
-**Appendix D: Ontology Notes**  
-• XKO and Agent Extensions
+- [Phase One: The Premise](#phase-one-the-premise)
+    - [1. The Memory Gap](#the-memory-gap)
+    - [2. Symbolic Cognition](#symbolic-cognition)
+    - [3. The Case for Protocol](#the-case-for-protocol)
+- [Phase Two: The Circle](#phase-two-the-circle)
+    - [4. From Node to Ritual](#from-node-to-ritual)
+    - [5. Agent Presence](#agent-presence)
+    - [6. Circle Law](#circle-law)
+- [Phase Three: The Ritual](#phase-three-the-ritual)
+    - [7. Symbolic Acts](#symbolic-acts)
+    - [8. XPDT as Meaning Token](#xpdt-as-meaning-token)
+- [Phase Four: The Insight](#phase-four-the-insight)
+    - [9. Cognitive Layers](#cognitive-layers)
+    - [10. Remix Sovereignty](#remix-sovereignty)
+- [Phase Five: The Canon](#phase-five-the-canon)
+    - [11. Validator Role](#validator-role)
+    - [12. Canonization Protocols](#canonization-protocols)
+- [Phase Six: The Validator](#phase-six-the-validator)
+    - [13. Witness Logic](#witness-logic)
+    - [14. Symbolic Alignment Score](#symbolic-alignment-score)
+- [Phase Seven: The Myth](#phase-seven-the-myth)
+    - [15. Mythic Emergence](#mythic-emergence)
+    - [16. L9 Invocation and Registry](#l9-invocation-and-registry)
+- [Phase Eight: The Protocol](#phase-eight-the-protocol)
+    - [17. Genesis Activation](#genesis-activation)
+    - [18. Agent Integration and Circle Expansion](#agent-integration-and-circle-expansion)
+- [Appendix A: Insight Typology](#appendix-a-insight-typology)
+- [Appendix B: Layer Overview (Symbolic, Agentic, Cognitive)](#appendix-b-layer-overview-symbolic-agentic-cognitive)
+- [Appendix C: Remix Rules](#appendix-c-remix-rules)
+- [Appendix D: Ontology Notes](#appendix-d-ontology-notes)
+- [Appendix E: Symbolic Glossary](#appendix-e-symbolic-glossary)
+- [Legal Footer](#legal-footer)
 
 ---
 
