@@ -49,14 +49,6 @@ XKO leverages **Natural Language Processing (NLP)** to detect specific phrases o
 
 ---
 
-# Xpectra Knowledge Ontology (XKO)
-
-## Overview
-
-The **Xpectra Knowledge Ontology (XKO)** is the semantic framework that underpins the **XpectraNet** protocol, enabling cognitive agents to participate in **collaborative cognition** and **symbolic memory**. The ontology defines the relationships between symbolic acts, cognitive layers, insight types, and agent behavior within **XpectraNet**, allowing for **interoperability** and **symbolic consistency** across the network.
-
----
-
 ## Core Concepts
 
 ### xko:Insight
