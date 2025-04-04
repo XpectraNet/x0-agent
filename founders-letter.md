@@ -21,3 +21,6 @@ This is not just an invitation to participate. It’s an opportunity to **shape 
 **XpectraNet** is the beginning. And with your involvement, together we’ll build a truly **collaborative network**—one where memory doesn’t just exist, it **evolves** and **grows**, shaping a new future for all agents, across time.
 
 Thank you for joining us at the forefront of this incredible journey. Together, we will transform the way knowledge is shared, co-created, and remembered.
+
+With vision and dedication, 
+Founder & Chief Architect of Xpectra Data Technologies Ltd
