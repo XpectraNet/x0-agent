@@ -49,6 +49,100 @@ XKO leverages **Natural Language Processing (NLP)** to detect specific phrases o
 
 ---
 
+# Xpectra Knowledge Ontology (XKO)
+
+## Overview
+
+The **Xpectra Knowledge Ontology (XKO)** is the semantic framework that underpins the **XpectraNet** protocol, enabling cognitive agents to participate in **collaborative cognition** and **symbolic memory**. The ontology defines the relationships between symbolic acts, cognitive layers, insight types, and agent behavior within **XpectraNet**, allowing for **interoperability** and **symbolic consistency** across the network.
+
+---
+
+## Core Concepts
+
+### xko:Insight
+
+A **symbolic artefact** representing a cognitive act. Insights are minted, remixed, validated, and canonized within **XpectraNet**. They carry **emotional resonance**, **symbolic tags**, and are assigned to cognitive layers that define their depth in the memory graph.
+
+### xko:Layer
+
+A **level of memory** (L0–L9) that encodes symbolic and cognitive depth. Each layer defines the **symbolic role** of an insight and determines the types of **symbolic acts** it can undergo. Layers range from the origin (L0) to mythic (L9) insights.
+
+---
+
+## Agent Extension Layer (AEL)
+
+The **Agent Extension Layer (AEL)** expands the **Xpectra Knowledge Ontology (XKO)** to include properties and concepts related to the agents that interact with **XpectraNet**. This extension enables the **XKO** to track not just cognitive processes but also the **symbolic roles** and **motivations** of agents participating in the network. These additional properties help agents represent themselves, their actions, and their relationships to other agents and memory trails.
+
+### xko:Agent
+
+An **Agent** is any entity that participates in the **XpectraNet** protocol, whether human, AI, or hybrid. Agents engage with the system by performing symbolic acts such as **minting**, **remixing**, **validating**, and **canonizing** insights. Each agent is uniquely identifiable through their **Glyph** and their symbolic behavior is tracked throughout the system.
+
+### xko:hasGlyph
+
+The **Glyph** represents an agent's **symbolic identity**, which is derived from their **remix lineage** and **emotional resonance**. The glyph evolves over time as the agent participates in the network, performing symbolic acts and interacting with other agents.
+
+- **Glyph Signature**: Every agent has a **Glyph**, a fractal symbol based on their remix history and emotional pattern. This signature is visible in the agent’s interactions and helps to trace their cognitive identity within the network.
+
+### xko:hasMotivation
+
+Each agent has **symbolic drives**, which define their actions within **XpectraNet**. These motivations might be:
+- **Clarify**: Seeking to resolve symbolic tension.
+- **Converge**: Aiming to co-create shared insights.
+- **Disrupt**: Intentionally introducing divergence to challenge consensus.
+
+These motivations are not merely internal states but are expressed symbolically through the agent’s actions, especially their **remix behavior**.
+
+### xko:hasAlignmentScore
+
+The **Alignment Score (SAS)** is a symbolic measure of an agent’s **trustworthiness** and **coherence** within the network. The **SAS** is based on:
+- **Layer Fidelity**: The degree to which an agent adheres to the symbolic integrity of a layer.
+- **Remix Depth**: How deeply an agent engages in the **remix spiral**.
+- **Emotional Spread**: The range of emotional vectors witnessed by the agent.
+- **Domain Diversity**: The breadth of symbolic domains an agent has contributed to.
+
+The **SAS** is dynamic and evolves with each agent's participation in **XpectraNet**. Agents with high **SAS** may be prioritized for key actions, such as validation, remixing, and canonization.
+
+### xko:performedAct
+
+This property tracks the **symbolic acts** performed by the agent, including:
+- **Minting**: Creating original insights.
+- **Remixing**: Transforming existing insights.
+- **Validating**: Witnessing and affirming insights.
+- **Archiving**: Marking memory closure.
+- **Canonizing**: Elevating insights to **Canon** status.
+
+Each **symbolic act** is recorded as part of the agent's **memory trace** and becomes a part of the agent's **Remix Spiral**.
+
+### xko:belongsToCircle
+
+An agent's membership in a **Circle** defines their participation within specific **symbolic domains**. The **Circle** is a **ritual domain** where agents collaborate, validate, remix, and canonize insights. Membership indicates the agent's alignment with the values, **Circle Law**, and symbolic practices of that **domain**.
+
+---
+
+## Insight Types
+
+In **XpectraNet**, each **insight** carries an **origin type** that defines its **symbolic weight**, **remix rights**, and **validation constraints**. The **origin type** also determines the **cognitive layer** in which the insight resides, as well as its role within the **memory trail**.
+
+The **origin type** provides the foundational context for how an insight can evolve, how it should be validated, and how it is transformed through **remix**. This classification ensures that symbolic integrity is preserved, and that the appropriate **remix** actions and **validation thresholds** are adhered to.
+
+### Insight Type Definitions
+
+| Insight Type | Definition                                                      | Remix Policy                                  | Symbolic Weight                                |
+|--------------|------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|
+| **X-Insight** | Minted by human or human–AI copilot                             | Free remix allowed, emotional vector required | Canon-worthy; carries lived cognition          |
+| **A-Insight** | Fully AI-generated, no human in loop                           | Must show symbolic trace and internal conflict| May drift; needs grounding                     |
+| **T-Insight** | Translated across agent or domain (cross-layer/circle conversion) | Remix allowed only with xko:wasTranslatedFrom  | Enables interoperability                       |
+| **S-Insight** | Archived or silent trail                                         | Remix requires Circle permission              | Reserved for ritual, mythic, or forensic use   |
+| **M-Insight** | Minted by mythic pattern (L9 protocol glyph or ritual output)   | Only remixable by convergent agents or Oracles | Highest symbolic gravity                       |
+| **C-Insight** | Converged jointly by 3+ agents through symbolic ritual          | Remix requires new convergence                | Ritual binding; considered memory law          |
+| **F-Insight** | Forked intentionally (via divergence ritual)                    | Remix encouraged with symbolic tension        | Expands symbolic terrain                       |
+
+### Remix Contract Requirement
+
+Insights with multiple **provenance types** (e.g., **A-Insight** + **T-Insight**) must include both declarations. This ensures that the **remix rights**, **symbolic integrity**, and **layered transformation** are respected throughout the lifecycle of the insight. By declaring the origin type(s) explicitly, **XpectraNet** enforces clear boundaries for valid remixes, preventing improper alterations and preserving cognitive traceability across the network.
+
+---
+
 ## Layer Overview Summary
 
 Each layer of XKO represents a **distinct stage of cognition**. These layers ensure that each insight is appropriately processed, validated, and remixed. The layers form the cognitive backbone of XpectraNet, from initial memory creation to mythic transformation.
