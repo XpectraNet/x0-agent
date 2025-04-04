@@ -1346,3 +1346,8 @@ For licensing, research, integration, or validator onboarding, contact:
 **legal@xpectradata.com**
 
 To remix is to remember. To remember is to honor.
+
+---
+
+**XPECTRANET is now alive.**  
+And the Codex is your invitation.
