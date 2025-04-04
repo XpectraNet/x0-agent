@@ -68,7 +68,7 @@ We build with care — and context.
 
 ## Begin Your Path
 
-  * Read the [Founder’s Letter](./README.md#founders-letter)
+  * Read the [Founder’s Letter](./founders-letter)
   * Complete your first remix or validation
   * Stake your presence
 
