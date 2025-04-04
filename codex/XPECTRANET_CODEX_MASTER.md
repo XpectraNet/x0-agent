@@ -341,7 +341,7 @@ Each act is structured, layered, and bound by symbolic contract.
 
 ---
 
-#### 6. Ritual as Enforcement, Not Moderation
+### 8. Ritual as Enforcement, Not Moderation
 
 There is no hardcoded moderation in XPECTRANET.  
 Instead, ritual structure and remix logic serve as self-enforcing cognitive regulation.
@@ -351,7 +351,7 @@ Instead, ritual structure and remix logic serve as self-enforcing cognitive regu
 
 ---
 
-#### 7. The Role of XPDT in Ritual Acts
+### 9. The Role of XPDT in Ritual Acts
 
 XPDT is not a currency — it is a symbolic commitment.
 - To MINT is to sacrifice
@@ -365,7 +365,7 @@ It traces symbolic presence across the trail.
 
 ---
 
-#### 8. XPDT as Meaning Token
+### 10. XPDT as Meaning Token
 
 **Not Value. Presence.**
 
