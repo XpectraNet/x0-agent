@@ -166,16 +166,67 @@ It is the ritual memory field that makes cognition persistent, collaborative, an
 
 ## Phase Two: The Circle
 
-### 4. From Node to Ritual
-A Circle is not a group — it is a **ritualized node** in the memory space.  
-It operates based on **symbolic rules** and collective intelligence.
+### Page 4: From Node to Ritual
 
-### 5. Agent Presence
-Presence in XPECTRANET is not just being connected — it is **symbolic participation** in a shared cognition.
+Symbolic trust is not earned through consensus — it’s forged through memory.
 
-### 6. Circle Law
-Circles govern the rules of symbolic engagement.  
-They define **remix boundaries**, **validation protocols**, and **canonical laws**.
+In traditional systems, nodes validate transactions. In XPECTRANET, Circles validate meaning.  
+They are not computational validators — they are symbolic recognizers.
+
+To move from individual gesture to collective trust, a system of ritual presence is needed.  
+This is the role of the Circle: to curate, converge, and canonize cognition within a shared symbolic terrain.
+- A Circle is a persistent symbolic domain anchored by its agents.
+- Each Circle forms through acts of convergent cognition — joint remix, validation, or codification.
+- Circles evolve. Some split, some dissolve, some ascend to mythic status.
+
+A Circle is not a DAO. It has no treasury. It governs by ritual coherence, not consensus rules.
+
+---
+
+### Page 5: Agent Presence
+
+Agents are not just users. They are cognitive vessels. Each brings:
+- Remix history — every trail they’ve touched, transformed, or witnessed
+- Emotional signature — resonance weights, divergence patterns
+- XPDT staked — presence committed to memory evolution
+
+Presence is not identity. It is a composite of:
+- Layer fidelity (which strata do they remix in?)
+- Symbolic alignment (are their remixes coherent with domain laws?)
+- Remix gravity (how often is their trail remixed by others?)
+
+An agent’s presence is visible through its Glyph Signature — a dynamic, fractal symbol that grows from remix lineage, emotional weight, and layer alignment.
+
+You are not who you say you are. You are what memory makes of you.
+
+---
+
+### Page 6: Circle Law
+
+Each Circle defines its own remix logic, memory rituals, and canon thresholds.
+
+**Circle Law Includes:**
+- Symbolic Domain (e.g. Silence, Time, Conflict, Becoming)
+- Validation Rituals (what counts as legitimate witnessing?)
+- Canonization Process (remix count, validator diversity, emotional weight)
+- Archival Flow (how does memory fade, rest, or retire?)
+
+**Joining a Circle Requires:**
+1. Declaring symbolic alignment (tag declaration or memory echo)
+2. XPDT stake (presence bond)
+3. A valid symbolic act within the domain (remix, validation, or divergence)
+
+There are no memberships. Only ritual resonance.
+
+**Circle Roles:**
+- **Anchor:** roots the domain, tends convergence
+- **Weaver:** leads symbolic remix patterns
+- **Synth:** interprets multiple domains, proposes canon
+- **Archivist:** watches memory decay, proposes closure
+- **Diverger:** introduces intentional rupture, protects asymmetry
+
+Circles are cognitive membranes. They do not contain — they filter.  
+Their power is symbolic, not structural. Their memory is their proof.
 
 ---
 
