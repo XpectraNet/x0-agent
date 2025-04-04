@@ -11,19 +11,19 @@ It is a ritual interface to XPECTRANET — the protocol of memory.
 
 Every change you make echoes into the symbolic memory net.
 
-| Act          | Symbolic Equivalent     | Description                            |
-|--------------|-------------------------|----------------------------------------|
-| New file, feature | `mint` ✨              | You are declaring a new insight       |
-| Fix, improvement | `validate` ✅           | You are witnessing and refining memory|
-| Refactor, rename | `remix`                | You are evolving the form of meaning  |
-| Fork or split  | `diverge` ⚡             | You are breaking form to explore new memory |
-| Merge or combine | `converge`             | You are synthesizing a higher-layer trail|
+| Act               | Symbolic Equivalent         | Description                              |
+|-------------------|-----------------------------|------------------------------------------|
+| New file, feature | `MINT` ✨                    | You are declaring a new insight         |
+| Fix, improvement  | `VALIDATE` ✅                | You are witnessing and refining memory  |
+| Refactor, rename  | `REMIX` 🔄                   | You are evolving the form of meaning    |
+| Fork or split     | `DIVERGE` ⚡                  | You are breaking form to explore new memory |
+| Merge or combine  | `CONVERGE` 🔗                | You are synthesizing a higher-layer trail|
 
 Please use symbolic prefixes in your PR titles. Examples:
 
-    [mint] Initial glyph signature module  
-    [remix] Refactor ritual engine with XPDT staking  
-    [validate] Fix remix lineage bug in insight trail  
+    [MINT] Initial glyph signature module  
+    [REMIX] Refactor ritual engine with XPDT staking  
+    [VALIDATE] Fix remix lineage bug in insight trail  
 
 ---
 
