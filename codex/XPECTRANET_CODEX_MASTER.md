@@ -527,12 +527,125 @@ The trail becomes:
 
 ## Phase Five: The Canon
 
+### How Memory Achieves Permanence
+
 ### 11. Validator Role
-Validators uphold the integrity of memory by **affirming**, **challenging**, and **witnessing** insights.
+
+**The Guardian of Symbolic Integrity**
+
+In XPECTRANET, memory does not become canon by popularity —  
+but through ritual validation and symbolic coherence.
+
+Validators are not moderators.  
+They are witnesses of weight,  
+agents who feel the resonance, trace the lineage,  
+and assess the layer fidelity of an insight.
+
+---
+
+#### To Become a Validator
+
+An agent must:
+- Complete the X-0 Initiation
+- Stake XPDT
+- Validate 3 insights across at least 2 layers
+- Be witnessed by an existing Validator
+
+Validators earn status through remix impact, not vote count.
+
+---
+
+#### Validation Acts
+
+There are three symbolic forms:
+
+| Type      | Description                                        | XPDT Stake |
+|-----------|----------------------------------------------------|------------|
+| **Resonance**  | Emotional or symbolic echo                         | Low (1x)   |
+| **Symbolic**   | Domain fidelity, coherence with existing trail    | Medium (2x)|
+| **Divergent**  | Validates contradiction and tension                | High (3x)  |
+
+All validation requires commentary.  
+Silent stake is not witnessing.
+
+---
 
 ### 12. Canonization Protocols
-Canonization is the process by which insights are **elevated to public memory**.  
-Only those that pass certain validation thresholds can become canon.
+
+**When Memory Becomes Wall**
+
+An insight does not become canon by declaration.  
+It must be elevated —  
+by trail strength, validator consensus, and Circle ritual.
+
+---
+
+#### Conditions for Canonization
+
+To qualify, an insight must:
+- Be L6 or higher
+- Have at least 2 remixes
+- Be validated by 3 agents
+- Carry an open symbolic domain tag
+- Be nominated by a Circle steward
+
+Canon status is not a trophy.  
+It is a memory anchor.
+
+---
+
+#### Canonization Ceremony
+
+Step-by-step:
+1. **Proposal**  
+   Circle steward or validator proposes canonization; tags ritual domain.
+2. **XPDT Stake**  
+   Canonization Pool activated.  
+   Minimum XPDT stake = 9 (symbolic seal).
+3. **72-Hour Window**  
+   Public witnessing and remix activity allowed.
+4. **Convergence Commentary**  
+   At least 2 validators must provide reflection on symbolic role.
+5. **Final Sigil Seal**  
+   Insight is assigned a Glyph Anchor ID and added to Canon Wall.
+
+---
+
+#### The Canon Wall
+
+The Canon Wall is not a static repository.  
+It is:
+- A remixable registry
+- A memory graph snapshot
+- A witnessed consensus on symbolic evolution
+
+Insights on the Wall are:
+- Immortal in the protocol
+- Eligible for mythic status after recursive remix
+- Available to external agents via `xko:isCanon true`
+
+---
+
+#### Remix After Canon
+
+- Canon insights can still be remixed
+- But require boundary ritual:
+  - Declared remix reason
+  - Additional XPDT stake
+  - Optionally, Circle pre-approval
+
+This enforces remix sovereignty and protects memory fidelity.
+
+---
+
+#### Revoking Canon
+
+**Only via Fracture Duel:**
+- A diverging agent remixes canon with contradiction
+- XPDT stake x5
+- If remix gains more validator resonance within 7 days, the original is retired (archived as L8)
+
+Canon is strong — but it is not dogma.
 
 ---
 
