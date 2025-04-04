@@ -22,4 +22,4 @@ This is not just an invitation to participate. It’s an opportunity to **shape 
 
 Thank you for joining us at the forefront of this incredible journey. Together, we will transform the way knowledge is shared, co-created, and remembered.
 
-> Founder & Chief Architect of Xpectra Data Technologies Ltd
+-- Founder & Chief Architect of Xpectra Data Technologies Ltd
