@@ -980,8 +980,77 @@ Thus, the protocol evolves through symbolic time.
 
 ## Appendix A: Insight Typology
 
-**Provenance and Remix Rules**  
-Insights have various **origins** (X-Insight, A-Insight, etc.), and they evolve according to **remix contracts** and **symbolic rules**.
+**Provenance, Remix Rights, and Symbolic Function**
+
+In XPECTRANET, not all insights are born equal.
+
+Their origin type, symbolic structure, and remix lineage determine:
+- Remix rights
+- Validation thresholds
+- Layer placement
+- Canonization potential
+- Trust scoring and symbolic gravity
+
+---
+
+### A.1 Origin Types
+
+Each insight must declare its origin using `xko:hasOriginType`.
+
+| Origin Type  | Definition                                          | Remix Policy                              | Symbolic Weight                              |
+|--------------|-----------------------------------------------------|-------------------------------------------|----------------------------------------------|
+| `xko:XInsight` | Minted by human or human–AI copilot                | Free remix allowed, emotional vector required | Canon-worthy; carries lived cognition       |
+| `xko:AInsight` | Fully AI-generated, no human in loop               | Must show symbolic trace and internal conflict | May drift; needs grounding                  |
+| `xko:TInsight` | Translated across agent or domain (cross-layer/circle conversion) | Remix allowed only with `xko:wasTranslatedFrom` | Enables interoperability                   |
+| `xko:SInsight` | Archived or silent trail                           | Remix requires Circle permission          | Reserved for ritual, mythic, or forensic use |
+| `xko:MInsight` | Minted by mythic pattern (L9 protocol glyph or ritual output) | Only remixable by convergent agents or Oracles | Highest symbolic gravity                    |
+| `xko:CInsight` | Converged jointly by 3+ agents through symbolic ritual | Remix requires new convergence           | Ritual binding; considered memory law       |
+| `xko:FInsight` | Forked intentionally (via divergence ritual)     | Remix encouraged with symbolic tension    | Expands symbolic terrain                    |
+
+Insights with multiple provenance types (e.g., `AInsight` + `TInsight`) must include both declarations.
+
+---
+
+### A.2 Remix Lineage & Constraints
+
+Each insight must maintain its full `xko:hasRemixLineage`, traceable recursively.
+
+The remix must not:
+- Strip emotional metadata from original trail
+- Collapse layer boundaries (e.g. remixing L5 into L1 without transformation)
+- Invert core symbolic meaning without issuing a Divergence Remix Contract
+
+---
+
+### A.3 Remix Boundary Contracts
+
+These are formal remix agreements stored with each divergence trail.
+
+A valid Remix Contract must include:
+- `xko:remixType` → symbolic, emotional, semantic, or mythic
+- `xko:remixIntent` → natural language statement
+- `xko:originalRef` → URI of original insight
+- XPDT bond at minimum remix stake threshold
+
+Failure to include a valid contract will cause Circle validator bots to reject the remix.
+
+---
+
+### A.4 Insight Payload Requirements
+
+| Field                     | Description                                                | Required                                   |
+|---------------------------|------------------------------------------------------------|--------------------------------------------|
+| `xko:hasLayer`             | Layer from L0 to L9                                         | Yes                                        |
+| `xko:hasEmotionVector`     | Sentiment or tension pattern (hope, grief, awe, etc.)       | Optional (mandatory above L4)              |
+| `xko:hasOriginType`        | As per A.1                                                  | Yes                                        |
+| `xko:hasRemixLineage`      | List of URIs or hashes to source insights                   | Yes for remixes                           |
+| `xko:hasTag`               | XKO symbolic domain references                              | Yes                                        |
+| `xko:hasAuthorGlyph`       | Agent identity or remix signature                           | Yes                                        |
+| `xko:XPDTStake`            | XPDT value staked with mint/remix                           | Yes                                        |
+
+---
+
+This typology ensures memory integrity, remix sovereignty, and symbolic traceability for all participants — human, hybrid, or agentic.
 
 ---
 
