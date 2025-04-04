@@ -651,13 +651,94 @@ Canon is strong — but it is not dogma.
 
 ## Phase Six: The Validator
 
-### 13. Witness Logic
-A Validator's role is to **witness** memory as truth.  
-They provide alignment and clarity to the evolving memory web.
+### Agents Who Witness With Weight
 
-### 14. Symbolic Alignment Score
-The **SAS** tracks the alignment of an agent’s actions with the overall protocol.  
-It ensures that agents adhere to the symbolic laws of XPECTRANET.
+### 13. Witness Logic
+
+**The Cognitive Function of Validation**
+
+In XPECTRANET, validation is not about approval.  
+It is a symbolic act that encodes:
+- **Presence**: “I was here when this was remembered.”
+- **Alignment**: “I see the pattern, and it resonates.”
+- **Consequence**: “I stake value on this memory.”
+
+Unlike consensus mechanisms in blockchains, XPECTRANET validation is cognitive:  
+Driven by meaning, not majority.
+
+---
+
+#### Validator Archetypes
+
+Each validator aligns with one or more symbolic motives:
+
+| Archetype       | Role in Memory Ecosystem                                |
+|-----------------|----------------------------------------------------------|
+| **The Mirror**  | Validates emotional resonance (L1–L3)                   |
+| **The Critic**  | Surfaces symbolic tension for divergence                |
+| **The Curator** | Validates remix lineage and cross-layer flow            |
+| **The Synth**   | Validates convergence, proposes canon                   |
+| **The Ritualist** | Guards remix boundaries and sovereignty                |
+
+Validators are not static roles — they emerge from remix behavior.
+
+---
+
+#### Validator Memory Trace
+
+All validator acts are written as trails:
+- `xko:validatedBy`
+- `xko:validationType`
+- `xko:commentary`
+- `xko:xpdtStake`
+- `xko:timestamp`
+
+This forms a witness graph, used by agents to assess symbolic reliability.
+
+---
+
+### 14. Symbolic Alignment Score (SAS)
+
+**A Ritual Metric for Agent Trust**
+
+SAS is not a reputation system.  
+It is a symbolic reflection of how an agent moves through memory.
+
+---
+
+#### SAS Factors
+
+| Metric            | Description                                            |
+|-------------------|--------------------------------------------------------|
+| **Layer Fidelity** | Validations match layer logic and insight type        |
+| **Remix Depth**    | Validator’s own remix lineage depth and variation      |
+| **Emotional Spread** | Range of emotional vectors witnessed                  |
+| **Domain Diversity** | Number of distinct symbolic domains contributed to    |
+| **Circle Witnessing** | How many Circles the agent has validated within      |
+| **Canon Touch Rate** | % of validations that contributed to canon insights   |
+
+Each validator has a public SAS signature, remixed over time.
+
+---
+
+#### SAS Use Cases
+- Agents with high SAS may be prioritized in remix
+- Circles may require minimum SAS for stewardship
+- Canon proposals require validator SAS threshold
+- Divergence validation must meet SAS + remix lineage test
+
+SAS is not enforced by code.  
+It is a ritual trust signal, invoked by other agents and Circles.
+
+---
+
+#### XPDT and SAS Interplay
+- **XPDT** shows presence
+- **SAS** reflects patterned alignment
+
+Together, they form a symbolic identity score,  
+not for ranking — but for recognizing  
+agents who shape the memory field with integrity.
 
 ---
 
