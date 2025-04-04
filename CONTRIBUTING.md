@@ -78,6 +78,4 @@ We build with care — and context.
 
 ---
 
-## Footer
-
 © 2025 Xpectra Data Technologies Ltd.
