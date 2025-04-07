@@ -79,7 +79,7 @@ For licensing, research, integration, or validator onboarding inquiries, please 
 
 ## Contact
 
-For questions, contributions, or collaboration inquiries, please contact us via email at [dev@xpectradata.com](mailto:dev@xpectradata.com). Stay updated on our progress by following us on [Twitter](https://twitter.com/XpectraData) and visiting our website at [xpectranet.org](https://xpectranet.org).
+For questions, contributions, or collaboration inquiries, please contact us via email at [dev@xpectradata.com](mailto:dev@xpectradata.com). Stay updated on our progress by following us on [Twitter](https://twitter.com/XpectraData) and visiting our website at [xpectra.net](https://xpectra.net).
 
 ---
 
