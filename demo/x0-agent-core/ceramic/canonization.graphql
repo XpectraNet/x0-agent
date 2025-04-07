@@ -1,0 +1,8 @@
+type Canonization @createModel(accountRelation: LIST, description: "Canonized memory artifact") {
+  insightCID: StreamID!
+  validators: [DID!]!
+  averageSAS: Float!
+  canonCID: String!
+  circle: String!
+  createdAt: DateTime!
+}

@@ -1,0 +1,7 @@
+type Validation @createModel(accountRelation: LIST, description: "Validation of an insight") {
+  insightID: StreamID!
+  validator: DID!
+  emotion: String!
+  sas: Float!
+  createdAt: DateTime!
+}

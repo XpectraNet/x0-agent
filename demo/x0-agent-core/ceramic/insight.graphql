@@ -1,0 +1,7 @@
+type Insight @createModel(accountRelation: LIST, description: "Symbolic memory node") {
+  content: String!
+  layer: String!
+  emotion: String!
+  ritual: String!
+  createdAt: DateTime!
+}
