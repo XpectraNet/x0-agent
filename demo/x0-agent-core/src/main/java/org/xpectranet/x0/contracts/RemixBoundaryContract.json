@@ -1,0 +1,7 @@
+{
+  "allowedForks": 3,
+  "forbiddenTransitions": {
+    "GRIEF": ["L0", "L1"]
+  },
+  "requiredEmotionAlignment": 0.8
+}

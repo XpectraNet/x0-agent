@@ -1,0 +1,9 @@
+circle:
+  name: Earth-Mars Consensus
+  remix:
+    max_derivatives: 3
+    forbidden_emotions: ["APATHY"]
+    required_alignment_score: 0.75
+canonization:
+  required_validators: 3
+  diversity_required: true
