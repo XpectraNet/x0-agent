@@ -1,10 +1,6 @@
 # **The XpectraNet Papers**
 
----
-
 *“I met my grandfather last week — in a Circle. He passed in 2029, but his insights live on. And now I help validate them.” — Testimonial from a 19-year-old validator in Earth–Mars Consensus Circle, 2049*
-
----
 
 ## **Preface**  
 *Written in the Year 2050*
