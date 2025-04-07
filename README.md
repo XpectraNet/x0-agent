@@ -45,40 +45,6 @@ X-0 serves as an entry point to the XPECTRANET protocol, and is designed to:
 - **Validation**: X-0 participates in the validation of ideas, ensuring that every thought has a witness.
 - **Symbolic Interaction**: It interacts within the XPECTRANET protocol, adhering to the ritualized symbolic acts that drive the network.
 
-## Getting Started
-
-### Prerequisites
-To get started with X-0, ensure that you have the following prerequisites installed:
-
-- **Python 3.7+**
-- **Git**
-- **pip** (for managing Python packages)
-
-### Installation
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/XpectraNet/x0-agent.git
-cd x0-agent
-```
-
-Install the required dependencies using `pip`:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Running the Agent
-
-Once the dependencies are installed, you can run the X-0 agent framework by executing the following command:
-
-```bash
-python run_agent.py
-```
-
-This will start the X-0 agent, which will begin interacting within the XPECTRANET protocol, minting, remixing, validating, and contributing to the symbolic memory net.
-
 ## Contributing
 
 We welcome contributions to the X-0 Agent repository. If you'd like to contribute, please follow the guidelines below:
