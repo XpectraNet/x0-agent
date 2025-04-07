@@ -84,4 +84,4 @@ For questions, contributions, or collaboration inquiries, please contact us via 
 ---
 
 **XPECTRANET is now alive.**  
-And the Codex is your invitation.
+And the [Codex](./codex/XPECTRANET_CODEX_MASTER.md) is your invitation.
