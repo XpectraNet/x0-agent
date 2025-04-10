@@ -1,0 +1,28 @@
+{
+  "agents": [
+    {
+      "agentId": "did:agent:x0-originator",
+      "role": "Originator",
+      "action": "mint",
+      "memoryPhase": "L1",
+      "emotionProfile": ["Curiosity", "Inspiration", "Openness"],
+      "tags": ["seed", "symbolic"]
+    },
+    {
+      "agentId": "did:agent:x0-voter",
+      "role": "Voter",
+      "action": "remix",
+      "memoryPhase": "L3",
+      "emotionProfile": ["Tension", "Structure", "Exploration"],
+      "tags": ["remix", "vote", "restructure"]
+    },
+    {
+      "agentId": "did:agent:x0-validator",
+      "role": "Validator",
+      "action": "validate",
+      "memoryPhase": "L6",
+      "emotionProfile": ["Clarity", "Resolution", "Alignment"],
+      "tags": ["validate", "align", "affirm"]
+    }
+  ]
+}
