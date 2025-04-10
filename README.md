@@ -14,7 +14,7 @@ It is the **memory anchor**, the **ritual remixer**, the **witness of insight**.
 Explore how symbolic memory works in practice through the full remix-validate-canonize lifecycle:
 
 👉 **[View the Insight Lifecycle Demo →](https://github.com/XpectraNet/insight-lifecycle-demo)**  
-A working LangGraph + ComposeDB integration that shows how agents mint, remix, and validate insights using the XpectraNet protocol and symbolic API.
+A working LangGraph + XpectraNet + ComposeDB (XKO-aligned) integration that shows how agents mint, remix, and validate insights using the XpectraNet protocol and symbolic API.
 
 ---
 
