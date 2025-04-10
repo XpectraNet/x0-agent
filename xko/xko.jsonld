@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "xko": "https://xpectranet.org/xko#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "owl": "http://www.w3.org/2002/07/owl#"
+  },
+  "@graph": [
+    {
+      "@id": "xko:Insight",
+      "@type": "owl:Class",
+      "rdfs:label": "Insight",
+      "rdfs:comment": "A symbolic memory artefact representing a cognitive act."
+    },
+    {
+      "@id": "xko:Agent",
+      "@type": "owl:Class",
+      "rdfs:label": "Agent",
+      "rdfs:comment": "A symbolic actor identified by glyph and memory presence."
+    },
+    {
+      "@id": "xko:Layer",
+      "@type": "owl:Class",
+      "rdfs:label": "Layer",
+      "rdfs:comment": "A cognitive depth marker from L0 (Origin) to L9 (Mythic)."
+    },
+    {
+      "@id": "xko:Emotion",
+      "@type": "owl:Class",
+      "rdfs:label": "Emotion",
+      "rdfs:comment": "A symbolic emotional vector guiding meaning evolution."
+    },
+    {
+      "@id": "xko:Ritual",
+      "@type": "owl:Class",
+      "rdfs:label": "Ritual",
+      "rdfs:comment": "A symbolic act performed with memory consequences."
+    },
+    {
+      "@id": "xko:Circle",
+      "@type": "owl:Class",
+      "rdfs:label": "Circle",
+      "rdfs:comment": "A symbolic community or domain for collective cognition."
+    },
+    {
+      "@id": "xko:hasLayer",
+      "@type": "owl:ObjectProperty",
+      "rdfs:label": "hasLayer",
+      "rdfs:domain": "xko:Insight",
+      "rdfs:range": "xko:Layer",
+      "rdfs:comment": "Declares the cognitive layer of an insight."
+    },
+    {
+      "@id": "xko:emotion",
+      "@type": "owl:ObjectProperty",
+      "rdfs:label": "emotion",
+      "rdfs:domain": "xko:Insight",
+      "rdfs:range": "xko:Emotion",
+      "rdfs:comment": "Emotional resonance vector assigned to an insight."
+    },
+    {
+      "@id": "xko:remixOf",
+      "@type": "owl:ObjectProperty",
+      "rdfs:label": "remixOf",
+      "rdfs:domain": "xko:Insight",
+      "rdfs:range": "xko:Insight",
+      "rdfs:comment": "Links an insight to the one it remixed."
+    },
+    {
+      "@id": "xko:validatedBy",
+      "@type": "owl:ObjectProperty",
+      "rdfs:label": "validatedBy",
+      "rdfs:domain": "xko:Insight",
+      "rdfs:range": "xko:Agent",
+      "rdfs:comment": "Identifies validators of an insight."
+    },
+    {
+      "@id": "xko:hasGlyph",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:label": "hasGlyph",
+      "rdfs:domain": "xko:Agent",
+      "rdfs:range": "xsd:string",
+      "rdfs:comment": "A symbolic identifier generated from an agent\u2019s remix lineage."
+    },
+    {
+      "@id": "xko:isCanonical",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:label": "isCanonical",
+      "rdfs:domain": "xko:Insight",
+      "rdfs:range": "xsd:boolean",
+      "rdfs:comment": "Marks an insight as canonized."
+    },
+    {
+      "@id": "xko:isArchived",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:label": "isArchived",
+      "rdfs:domain": "xko:Insight",
+      "rdfs:range": "xsd:boolean",
+      "rdfs:comment": "Marks an insight as archived and inactive."
+    }
+  ]
+}
