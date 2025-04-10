@@ -19,7 +19,7 @@ This ontology defines the core structures for:
 | File | Description |
 |------|-------------|
 | [`xko.ttl`](xko.ttl) | RDF/Turtle representation of the full ontology |
-| [`xko.jsonld`](xko.jsonld) _(coming soon)_ | JSON-LD version for Linked Data and AI agents |
+| [`xko.jsonld`](xko.jsonld) | JSON-LD version for Linked Data and AI agents |
 | [`XKO_Specification_v1.md`](XKO_Specification_v1.md) | Formal specification in Markdown |
 | [`index.html`](index.html) | Human-readable landing page (served at [xpectranet.org/xko](https://xpectranet.org/xko)) |
 
