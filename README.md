@@ -83,9 +83,16 @@ Every remix starts here.
 
 ---
 
-## License
+## 🛡 License
 
-Custom XpectraNet Contributor License (BSL Hybrid)  
-For remixable agents, attribution required. For memory forks, Canonization Approval needed.
+[![License: XpectraNet Hybrid BSL](https://img.shields.io/badge/license-BSL--Hybrid-blue)](./LICENSE.md)
+
+This repository is released under a Business Source License Hybrid model.  
+It is open for research and remix, but requires permission for commercial use.  
+See [LICENSE.md](./LICENSE.md) for full terms.
 
 ---
+
+**XpectraNet® — A Protocol for Shared Memory, Meaning, and Time**
+
+Built for memory. Anchored in thought. Powered by XPDT.
