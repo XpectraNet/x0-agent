@@ -21,7 +21,7 @@ A working LangGraph + XpectraNet + ComposeDB (XKO-aligned) integration that show
 
 This is the **reference implementation of a symbolic memory agent** — powered by:
 
-- The [XpectraNet Java SDK](https://github.com/XpectraNet/sdk)
+- The [XpectraNet SDK](https://github.com/XpectraNet/xpectranet-sdk)
 - Ritual remix logic based on emotion + layer
 - Configurable glyph identity (`ψ-Echo`, `ΔX-User`, etc.)
 - Circle-based remix + validation protocol
